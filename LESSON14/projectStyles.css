@@ -1,0 +1,123 @@
+/* Overall Body Styling */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header and Banner Styling */
+header {
+    background-color: #f1f1f1;
+    padding: 25px;
+    margin-bottom: 6px;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 30px;
+    margin: 0;
+}
+
+.banner h2, p {
+    margin: 6px 0;
+}
+
+/* Form and Button Styling */
+form {
+    width: 50%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.formItem {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 95%;
+    padding: 5px;
+    margin: auto;
+    font-size: 14px;
+}
+
+button {
+    padding: 8px 15px;
+    font-size: 18px;
+    background-color: gray;
+    cursor: pointer;
+}
+
+
+/* Meal Plan Window Styling */
+.userInfo {
+    margin-left: 12px;
+}
+.userInfo h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.userInfo p {
+    margin-left: 6px;
+}
+
+table {
+    margin-left: 12px;
+    width: 98%;
+    background-color: gray;
+}
+
+th {
+    width: 50%;
+}
+td {
+    width: 50%;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.time1 {
+    background-color: #e49759;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.time2 {
+    background-color: #b6b3a2;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.time3 {
+    background-color: #87ceeb;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.time4 {
+    background-color: #bac8cf;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.time5 {
+    background-color: #ecc1b2;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
